@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cities>
+    <city>
+        <name>Bangalore</name>
+        <latitude>12.97</latitude>
+        <longitude>77.59</longitude>
+        <temperature>25</temperature>
+        <humidity>80%</humidity>
+    </city>
+
+    <city>
+        <name>Mysore</name>
+        <latitude>12.95</latitude>
+        <longitude>76.63</longitude>
+        <temperature>22</temperature>
+        <humidity>90%</humidity>
+    </city>
+
+    <city>
+        <name>Delhi</name>
+        <latitude>28.56</latitude>
+        <longitude>46.24</longitude>
+        <temperature>30</temperature>
+        <humidity>78%</humidity>
+    </city>
+</cities>

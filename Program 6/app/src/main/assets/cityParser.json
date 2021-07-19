@@ -1,0 +1,23 @@
+[
+  {
+    "city_name": "Mysore",
+    "latidude" : "12.95",
+    "longitude" : "76.63",
+    "temperature" : "22",
+    "humidity" : "90%",
+  },
+  {
+    "city_name": "Bangalore",
+    "latidude" : "12.97",
+    "longitude" : "77.59",
+    "temperature" : "25",
+    "humidity" : "80%",
+  },
+  {
+    "city_name": "Delhi",
+    "latidude" : "28.56",
+    "longitude" : "46.24",
+    "temperature" : "30",
+    "humidity" : "78%",
+  }
+]
