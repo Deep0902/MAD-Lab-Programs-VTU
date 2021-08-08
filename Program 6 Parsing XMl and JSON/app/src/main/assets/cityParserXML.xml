@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<cities>
-    <city>
-        <name>Bangalore</name>
-        <latitude>12.97</latitude>
-        <longitude>77.59</longitude>
-        <temperature>25</temperature>
-        <humidity>80%</humidity>
-    </city>
-
-    <city>
-        <name>Mysore</name>
-        <latitude>12.95</latitude>
-        <longitude>76.63</longitude>
-        <temperature>22</temperature>
-        <humidity>90%</humidity>
-    </city>
-
-    <city>
-        <name>Delhi</name>
-        <latitude>28.56</latitude>
-        <longitude>46.24</longitude>
-        <temperature>30</temperature>
-        <humidity>78%</humidity>
-    </city>
-</cities>
+<Cities>
+    <City>
+        <Name>Bangalore</Name>
+        <Latitude>12.9716</Latitude>
+        <Longitude>77.5946</Longitude>
+        <Temperature>27</Temperature>
+        <Humidity>98%</Humidity>
+    </City>
+    <City>
+        <Name>Mysore</Name>
+        <Latitude>12.295</Latitude>
+        <Longitude>76.639</Longitude>
+        <Temperature>27</Temperature>
+        <Humidity>90%</Humidity>
+    </City>
+    <City>
+        <Name>Delhi</Name>
+        <Latitude>28.7041</Latitude>
+        <Longitude>77.1025</Longitude>
+        <Temperature>27</Temperature>
+        <Humidity>99%</Humidity>
+    </City>
+</Cities>

@@ -1,23 +1,24 @@
 [
   {
-    "city_name": "Mysore",
-    "latidude" : "12.95",
-    "longitude" : "76.63",
-    "temperature" : "22",
-    "humidity" : "90%",
+    "City_Name": "Mysore",
+    "Latitude": "12.295",
+    "Longitude": "76.639",
+    "Temperature": "22",
+    "Humidity": "90%"
   },
   {
-    "city_name": "Bangalore",
-    "latidude" : "12.97",
-    "longitude" : "77.59",
-    "temperature" : "25",
-    "humidity" : "80%",
+    "City_Name": "Bangalore",
+    "Latitude": "12.9716",
+    "Longitude": "77.5946",
+    "Temperature": "27",
+    "Humidity": "98%"
   },
   {
-    "city_name": "Delhi",
-    "latidude" : "28.56",
-    "longitude" : "46.24",
-    "temperature" : "30",
-    "humidity" : "78%",
+    "City_Name": "Delhi",
+    "Latitude": "28.7041",
+    "Longitude": "77.1025",
+    "Temperature": "27",
+    "Humidity": "98%"
   }
+
 ]

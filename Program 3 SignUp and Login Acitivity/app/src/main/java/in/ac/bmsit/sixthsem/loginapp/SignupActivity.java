@@ -1,4 +1,4 @@
-package in.ac.bmsit.sixthsem.loginapp;
+ppackage in.ac.bmsit.sixthsem.loginapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -24,7 +24,7 @@ public class SignupActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String emailId = email.getText().toString();
-                String pass = password.getText().toString();
+                String pass = password.getText().toString()
                 Intent myInt = new Intent(SignupActivity.this,LoginActivity.class);
                 myInt.putExtra("email",emailId);
                 myInt.putExtra("password",pass);
